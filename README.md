@@ -1,5 +1,5 @@
 <h1 align="center">Hi😌, I'm Colton</h1>
-<h3 align="center">I'm a Game Developer. Everyday I'm trying to improve myself and I want to share my work to here.</h3>
+<h3 align="center">I'm a Game Developer & XR Developer. Everyday I'm trying to improve myself and I want to share my work to here.</h3>
 
 - 🌱 I’m currently learning ▶▶ **UNITY, C#, Unreal Engine, C++, XR**
 
