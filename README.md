@@ -10,7 +10,7 @@
 - 📄 Know about my experiences 
 Softwares ▶▶  Unity (Intermediate), Unreal Engine (Entry)
 
-Software Language ▶▶ C Sharp (Intermediate), C++ (Entry)
+Software Languages ▶▶ C Sharp (Intermediate), C++ (Entry)
 
 Languages ▶▶ English (Native), Mandarin (Native), Cantonese (Native), French (Beginner)
 
