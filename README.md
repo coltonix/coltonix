@@ -17,7 +17,7 @@ Languages ▶▶ English (Native), Mandarin (Native), Cantonese (Native), French
 <h3 align="center">Connect with me :</h3>
 <p align="center">
   <a href="https://linkedin.com/in/coltonluo" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg" alt="Colton Luo" height="45" width="60" /></a>
-  <a href="https://discordapp.com/users/coltonix. target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/discord.svg" alt="coltonix." height="45" width="60" /></a>
+  <a href="https://discordapp.com/users/coltonix." target="blank"><img align="center" src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/discord.svg" alt="coltonix." height="45" width="60" /></a>
 </p>
 
 <h3 align="center">Languages and Tools :</h3>
